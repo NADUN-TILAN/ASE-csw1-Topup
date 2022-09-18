@@ -1,19 +1,4 @@
 <?php 
-/*
-*
-* this code is based on captcha code by Simon Jarvis 
-* http://www.white-hat-web-design.co.uk/articles/php-captcha.php
-*
-* This program is free software; you can redistribute it and/or 
-* modify it under the terms of the GNU General Public License 
-* as published by the Free Software Foundation
-*
-* This program is distributed in the hope that it will be useful, 
-* but WITHOUT ANY WARRANTY; without even the implied warranty of 
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the 
-* GNU General Public License for more details: 
-* http://www.gnu.org/licenses/gpl.html
-*/
 
 session_start();
 //Settings: You can customize the captcha here
