@@ -1,36 +1,31 @@
 <!-- Contact -->
-<h1>Contact Us</h1>
-<div class="contact">
-  <div class="contact_container">
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          <div class="section_title text-center">
-            <div>Feedback</div>
-            <h1>Say Hello</h1>
-          </div>
-          <div class="contact_text text-center">
-            <p> Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis.</p>
-          </div>
-          <div class="contact_form_container">
-            <form action="#" class="contact_form text-center">
-              <div class="row">
-                <div class="col-lg-6">
-                  <input type="text" class="contact_input" placeholder="Your name" required="required">
-                </div>
-                <div class="col-lg-6">
-                  <input type="email" class="contact_input" placeholder="Your email" required="required">
-                </div>
-              </div>
-              <input type="text" class="contact_input" placeholder="Subject">
-              <textarea class="contact_input" placeholder="Message" required="required"></textarea>
-              <button class="contact_button">send message</button>
-            </form>
-          </div>
-        </div>
-      </div>
+<center>
+<small>Enter message (optional) and click button "Send"</small>
+<div class="wrapper centered">
+  <article class="letter">
+    <div class="side">
+      <h1>Contact us</h1>
+      <p>
+        <textarea placeholder="Your message"></textarea>
+      </p>
     </div>
-  </div>
+    <div class="side">
+      <p>
+        <input type="text" placeholder="Your name" >
+      </p>
+      <p>
+        <input type="email" placeholder="Your email" >
+      </p>
+      <p>
+        <button id="sendLetter">Send</button>
+      </p>
+    </div>
+  </article>
+  <div class="envelope front"></div>
+  <div class="envelope back"></div>
+</div>
+<p class="result-message centered">Thank you for your message</p>
+<center>
 
   <!-- Map -->
   <div class="contact_map_container">
