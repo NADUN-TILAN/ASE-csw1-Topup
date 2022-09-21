@@ -93,7 +93,7 @@ textarea:focus {
   z-index: 9999;
   opacity: 0;
 }
-.envelope.front contact ::before, .envelope.front contact ::after {
+.envelope.front-contact ::before, .envelope.front contact ::after {
   position: absolute;
   display: block;
   width: 12rem;
@@ -133,7 +133,7 @@ textarea:focus {
   transform: translateY(9rem);
   z-index: -9999;
 }
-.sent contact  {
+.sent-contact  {
   & .letter {
     animation: scaleLetter 1s forwards ease-in /*,
                pushLetter 0.5s 1.33s forwards ease-out*/ ;
