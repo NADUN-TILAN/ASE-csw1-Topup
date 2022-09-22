@@ -1,7 +1,7 @@
 <?php
 require_once("../includes/initialize.php");
 
- 
+
     
     $uname = trim($_POST['username']);
     $upass = trim($_POST['password']);
