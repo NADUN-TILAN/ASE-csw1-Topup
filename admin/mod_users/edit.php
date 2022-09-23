@@ -58,7 +58,7 @@ $res = $user->single_user($_SESSION['id']);
               <div class="col-md-8">
                 <select class="form-control input-sm" name="ROLE" id="ROLE">
                   <option <?php echo ($res->ROLE=='Administrator') ? 'SELECTED' : '';  ?> value="Administrator">Administrator</option>
-                  <option <?php echo ($res->ROLE=='Guest In-charge') ? 'SELECTED' : ''; ?> value="Guest In-charge">Guest In-charge</option>
+                  <option <?php echo ($res->ROLE=='In-charge') ? 'SELECTED' : ''; ?> value="In-charge">In-charge</option>
                  </select> 
               </div>
             </div>
