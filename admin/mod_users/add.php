@@ -51,7 +51,7 @@
               <div class="col-md-8">
                 <select class="form-control input-sm" name="ROLE" id="ROLE">
                   <option value="Administrator">Administrator</option>
-                    <option value="Guest In-charge">Guest In-charge</option>
+                    <option value="In-charge">In-charge</option>
                   <!-- <option value="Encoder">Encoder</option> -->
                 </select> 
               </div>
