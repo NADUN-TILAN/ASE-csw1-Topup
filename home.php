@@ -339,6 +339,17 @@
                 <div class="testimonial_author_name"><a href="#">Mr.Dinan dias,</a><span> Backend Developer</span></div>
               </div>
             </div>
+
+            <!-- Author Slide 5 -->
+            <div>
+              <div class="testimonial_text text-center">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+              </div>
+              <div class="testimonial_author text-center">
+                <div class="testimonial_author_image"><img src="images/gawesh.jpeg" alt=""></div>
+                <div class="testimonial_author_name"><a href="#">Mr.Dinan dias,</a><span> Backend Developer</span></div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
