@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	line-height: 1.2;
-	margin-bottom: 0;
+	margin-bottom: 10px;
 }
 h1::selection, 
 h2::selection, 
