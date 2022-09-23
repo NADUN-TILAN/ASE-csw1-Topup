@@ -5,8 +5,6 @@
 
       <!-- Intro Content -->
       <div class="col-lg-6">
-        <div class="intro_content">
-          <div class="section_title">
             <div>Hello</div>
             <h1>Amazing Hotel in front of the Sea</h1>
           </div>
