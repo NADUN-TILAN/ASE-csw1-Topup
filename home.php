@@ -299,7 +299,7 @@
             <!-- Author Slide 1 -->
             <div>
               <div class="testimonial_text text-center">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+                <p>"The mission of our hotel is to provide outstanding lodging facilities and services to our guests. Our hotel focuses on individual business and leisure travel, as well as travel associated with groups meetings .we emphasise high quality standards in our rooms and food and beverage divisions. We provide a fair return on investment for our owners and recognise that this cannot be done without well trained , motivated and enthusiastic employees."</p>
               </div>
               <div class="testimonial_author text-center">
                 <div class="testimonial_author_image"><img src="images/osa.png" alt=""></div>
@@ -310,7 +310,7 @@
             <!-- Author Slide 2 -->
             <div>
               <div class="testimonial_text text-center">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+                <p>"The mission of our hotel is to provide outstanding lodging facilities and services to our guests. Our hotel focuses on individual business and leisure travel, as well as travel associated with groups meetings .we emphasise high quality standards in our rooms and food and beverage divisions. We provide a fair return on investment for our owners and recognise that this cannot be done without well trained , motivated and enthusiastic employees."</p>
               </div>
               <div class="testimonial_author text-center">
                 <div class="testimonial_author_image"><img src="images/pro.png" alt=""></div>
@@ -321,7 +321,7 @@
             <!-- Author Slide 3 -->
             <div>
               <div class="testimonial_text text-center">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+                <p>"The mission of our hotel is to provide outstanding lodging facilities and services to our guests. Our hotel focuses on individual business and leisure travel, as well as travel associated with groups meetings .we emphasise high quality standards in our rooms and food and beverage divisions. We provide a fair return on investment for our owners and recognise that this cannot be done without well trained , motivated and enthusiastic employees."</p>
               </div>
               <div class="testimonial_author text-center">
                 <div class="testimonial_author_image"><img src="images/dula.jpeg" alt=""></div>
@@ -332,7 +332,7 @@
             <!-- Author Slide 4 -->
             <div>
               <div class="testimonial_text text-center">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+                <p>"The mission of our hotel is to provide outstanding lodging facilities and services to our guests. Our hotel focuses on individual business and leisure travel, as well as travel associated with groups meetings .we emphasise high quality standards in our rooms and food and beverage divisions. We provide a fair return on investment for our owners and recognise that this cannot be done without well trained , motivated and enthusiastic employees."</p>
               </div>
               <div class="testimonial_author text-center">
                 <div class="testimonial_author_image"><img src="images/dina.jpeg" alt=""></div>
@@ -343,7 +343,7 @@
             <!-- Author Slide 5 -->
             <div>
               <div class="testimonial_text text-center">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+                <p>"The mission of our hotel is to provide outstanding lodging facilities and services to our guests. Our hotel focuses on individual business and leisure travel, as well as travel associated with groups meetings .we emphasise high quality standards in our rooms and food and beverage divisions. We provide a fair return on investment for our owners and recognise that this cannot be done without well trained , motivated and enthusiastic employees."</p>
               </div>
               <div class="testimonial_author text-center">
                 <div class="testimonial_author_image"><img src="images/gawesh.jpeg" alt=""></div>
