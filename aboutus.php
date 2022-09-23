@@ -167,29 +167,29 @@
           <div class="button discover_button"><a href="#">discover</a></div>
         </div>
 
-        <!-- Milestones -->
+        <!-- 
         <div class="col-lg-6 offset-xl-1">
           <div class="milestones d-flex flex-row align-items-start justify-content-start flex-wrap">
 
-            <!-- Milestone -->
+            
             <div class="milestone">
               <div class="milestone_counter" data-end-value="75">0</div>
               <div class="milestone_text">Deluxe Rooms</div>
             </div>
 
-            <!-- Milestone -->
+            
             <div class="milestone">
               <div class="milestone_counter" data-end-value="110">0</div>
               <div class="milestone_text">Years of Experience</div>
             </div>
 
-            <!-- Milestone -->
+            
             <div class="milestone">
               <div class="milestone_counter" data-end-value="31">0</div>
               <div class="milestone_text">Awards Won</div>
             </div>
 
-            <!-- Milestone -->
+            
             <div class="milestone">
               <div class="milestone_counter" data-end-value="51" data-sign-after="k">0</div>
               <div class="milestone_text">Happy Clients</div>
@@ -197,7 +197,8 @@
 
           </div>
         </div>
-
+          -->
+          
       </div>
     </div>
   </div>
