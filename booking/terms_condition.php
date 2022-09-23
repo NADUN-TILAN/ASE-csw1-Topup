@@ -53,11 +53,11 @@ Unless stated as part of your booking, additional items such as (but not limited
 
  If you have any questions, please email at magbanua.com or call (034) 4713 – 135 
 
-Thank you for choosing Dragon House
+Thank you for choosing Royal Hotel
 
 Respectfully your,
 
-Dragon House
+Royal Hotel
 </ul> 
 </p>
 </div>

@@ -154,10 +154,10 @@ $result=$guest->single_guest($guestid);*/
  </ul>
 If you have any questions, please email at dragonhouse.com or call (034) 4713 – 135
 <br/><br/>
-Thank you for choosing Dragon House
+Thank you for choosing Royal Hotel
 <br/><br/>
 Respectfully your,<br/><br/>
-Dragon House
+Royal Hotel
 <br/><br/><br/>
 </span>
 <div id="divButtons" name="divButtons">

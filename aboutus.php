@@ -52,7 +52,7 @@
               <h3>Outdoor Pool</h3>
             </div>
             <div class="offer_text">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+              <p>Immerse yourself in the relaxed atmosphere of our outdoor pool. Feel all your tiredness wash away and a sense of calm settle over your senses as you swim a few laps and take in the natural beauty.</p>
             </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
           </div>
@@ -68,7 +68,7 @@
               <h3>Indoor Pool</h3>
             </div>
             <div class="offer_text">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+              <p>Perfect for any mood, our spacious indoor pool is the best place to take a dip after a day of sightseeing or to relax with friends and family.</p>
             </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
           </div>
@@ -84,7 +84,7 @@
               <h3>Spa Zone</h3>
             </div>
             <div class="offer_text">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+              <p>It is the highest level of relaxation. We offer our guests a rich SPA offer with relaxing, beautifying, rejuvenating facial and body treatments and a wide range of massages.</p>
             </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
           </div>
@@ -100,7 +100,7 @@
               <h3>Sports Area</h3>
             </div>
             <div class="offer_text">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+              <p>Get your adrenaline pumping and spend a fun time engaging in the various sports with your loved ones. Make unforgettable memories with them.</p>
             </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
           </div>
@@ -116,7 +116,7 @@
               <h3>Restaurant</h3>
             </div>
             <div class="offer_text">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+              <p>Get your apetite up with all your preference. After a refreshing bath, exhausting journeys, or simply treat your taste buds with the delicious food we have to offer.</p>
             </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
           </div>
@@ -132,7 +132,7 @@
               <h3>Skybar</h3>
             </div>
             <div class="offer_text">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium.</p>
+              <p>Sip a remarkable cocktail and nibble on a delicious selection of tapas while the gentle breeze through the open window adds a touch of coolness to the sultry night.</p>
             </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
           </div>
