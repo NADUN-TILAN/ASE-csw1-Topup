@@ -202,7 +202,7 @@
         <!-- Intro Image -->
         <div class="col-lg-6">
           <div class="intro_image">
-            <div class="background_image" style="background-image:url(images/intro.jpg)"></div>
+            <div class="background_image" style="background-image:url(images/111.jpg)"></div>
             <img src="images/111.jpg" alt="">
           </div>
         </div>
