@@ -138,7 +138,7 @@
               </li>
             </ul>
           </div>
-          <div class="rooms_price">LKR.15290/<span>Night</span></div>
+          <div class="rooms_price">Rs.15290/<span>Night</span></div>
 
         </div>
       </div>
@@ -180,7 +180,7 @@
               </li>
             </ul>
           </div>
-          <div class="rooms_price">LKR.11890/<span>Night</span></div>
+          <div class="rooms_price">Rs.11890/<span>Night</span></div>
 
         </div>
       </div>
