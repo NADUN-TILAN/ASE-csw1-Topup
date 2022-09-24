@@ -123,9 +123,9 @@ $result=$guest->single_guest($guestid);*/
               echo '<td>'.$_SESSION['dragonhouse_cart'][$i]['dragonhousecheckin'].'</td>';
               echo '<td>'.$_SESSION['dragonhouse_cart'][$i]['dragonhousecheckout'].'</td>';
               echo '<td>'.$_SESSION['dragonhouse_cart'][$i]['dragonhouseday'].'</td>';
-              echo '<td> &euro;'. $result->PRICE.'</td>';
+              echo '<td> Rs. '. $result->PRICE.'</td>';
                echo '<td >1</td>';
-                echo '<td >&euro;'. $_SESSION['dragonhouse_cart'][$i]['dragonhouseroomprice'].'</td>';
+                echo '<td >Rs. '. $_SESSION['dragonhouse_cart'][$i]['dragonhouseroomprice'].'</td>';
         
 
               
@@ -142,7 +142,7 @@ $result=$guest->single_guest($guestid);*/
                <tr>
                    <td colspan="5"></td><td align="right"><h5><b>Order Total: </b></h5>
                    <td align="left">
-                  <h5><b> <?php echo '&euro;' . $payable= $days*$result->PRICE; ?></b></h5>
+                  <h5><b> <?php echo 'Rs. ' . $payable= $days*$result->PRICE; ?></b></h5>
                                    
                   </td>
           </tr>
@@ -154,7 +154,7 @@ $result=$guest->single_guest($guestid);*/
     
 <p>We are eagerly anticipating your arrival and would like to advise you of the following in order to help you with your trip planning.Your reservation number is <b><?php echo $_SESSION['confirmation']?>:</b><br/><br/>Should there be a concern with your reservation, a customer service representative will contact you. Otherwise, consider your reservation confirmed.</p>
 <ul>
- <li>Function Room rate is &euro; 500.00 for first four hours and &euro; 100.00 for each succeeding hours.</li>
+ <li>Function Room rate is Rs. 500.00 for first four hours and Rs. 100.00 for each succeeding hours.</li>
  <li>No pets allowed.</li>
  <li>Outside foods are allowed inside the guest house.</li>
  <li>Check in time is 1pm and Check out time is 12 noon.</li>

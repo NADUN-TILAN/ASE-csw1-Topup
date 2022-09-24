@@ -66,7 +66,7 @@ if(isset($_GET['id'])){
                         echo '<td>'. $result->ROOM.' '. $result->ROOMDESC.' </td>';
                         echo '<td>'.date_format(date_create( $_SESSION['dragonhouse_cart'][$i]['dragonhousecheckin']),"m/d/Y").'</td>';
                         echo '<td>'.date_format(date_create( $_SESSION['dragonhouse_cart'][$i]['dragonhousecheckout']),"m/d/Y").'</td>';
-                        echo '<td > &euro;'. $result->PRICE.'
+                        echo '<td > Rs. '. $result->PRICE.'
                           <input type="hidden" value="'.$result->PRICE.'"  name="roomprice'.$_SESSION['dragonhouse_cart'][$i]['dragonhouseroomid'].'" id="roomprice'.$_SESSION['dragonhouse_cart'][$i]['dragonhouseroomid'].'"/>
 
                         </td>'; 
@@ -99,7 +99,7 @@ if(isset($_GET['id'])){
             <tr>
            <td colspan="6"><h4 align="right">Total:</h4></td>
            <td colspan="4">
-             <h4><b>&euro;<span id="sum"><?php  echo isset($_SESSION['pay']) ?  $_SESSION['pay'] :'Your booking cart is empty.';?></span></b></h4>
+             <h4><b>Rs. <span id="sum"><?php  echo isset($_SESSION['pay']) ?  $_SESSION['pay'] :'Your booking cart is empty.';?></span></b></h4>
                          
             </td>
             </tr>

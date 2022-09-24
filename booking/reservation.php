@@ -100,9 +100,9 @@ $result=$guest->single_guest($guestid);*/
                 echo '<td>'.$_SESSION['dragonhouse_cart'][$i]['dragonhousecheckin'].'</td>';
                 echo '<td>'.$_SESSION['dragonhouse_cart'][$i]['dragonhousecheckout'].'</td>';
                 echo '<td>'.$_SESSION['dragonhouse_cart'][$i]['dragonhouseday'].'</td>';
-                echo '<td> &euro;'. $result->PRICE.'</td>';
+                echo '<td> Rs. '. $result->PRICE.'</td>';
                 echo '<td >1</td>';
-                echo '<td >&euro;'. $_SESSION['dragonhouse_cart'][$i]['dragonhouseroomprice'].'</td>'; 
+                echo '<td >Rs. '. $_SESSION['dragonhouse_cart'][$i]['dragonhouseroomprice'].'</td>'; 
                 echo '</tr>';
               } 
 
@@ -116,7 +116,7 @@ $result=$guest->single_guest($guestid);*/
             <tr>
               <td colspan="5"></td><td align="right"><h5><b>Order Total: </b></h5>
               <td align="left">
-              <h5><b> <?php echo '&euro;' . $payable= $days*$result->PRICE; ?></b></h5>
+              <h5><b> <?php echo 'Rs. ' . $payable= $days*$result->PRICE; ?></b></h5>
                            
               </td>
             </tr>

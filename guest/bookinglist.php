@@ -58,9 +58,9 @@ foreach ($res as $result) {
 				  		 echo '<td>'. $result->ROOM.' '. $result->ROOMDESC.' </td>';
                         echo '<td>'.date_format(date_create($result->ARRIVAL),"m/d/Y").'</td>';
                         echo '<td>'.date_format(date_create($result->DEPARTURE),"m/d/Y").'</td>';
-                        echo '<td > &euro; '. $result->PRICE.'</td>'; 
+                        echo '<td > Rs. '. $result->PRICE.'</td>'; 
                         echo '<td>'.$day.'</td>';
-                        echo '<td > &euro; '. $result->RPRICE.'</td>';
+                        echo '<td > Rs. '. $result->RPRICE.'</td>';
 				  		
 				  		echo '</tr>';
 				 

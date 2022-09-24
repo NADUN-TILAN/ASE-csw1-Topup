@@ -94,11 +94,11 @@ require_once("../../includes/initialize.php");
             <tr> 
               <td><?php echo $result->G_FNAME . ' ' .  $result->G_LNAME;?></td>
               <td><?php echo $result->ACCOMODATION . ' [' .$result->ROOM.']' ;?></td>
-              <td> &euro; <?php echo $result->PRICE;?></td>
+              <td> Rs. <?php echo $result->PRICE;?></td>
               <td><?php echo date_format(date_create($result->ARRIVAL),'m/d/Y');?></td>
               <td><?php echo date_format(date_create($result->DEPARTURE),'m/d/Y');?></td>
               <td><?php echo ($days==0) ? '1' : $days;?></td>
-              <td> &euro; <?php echo $result->RPRICE;?></td>
+              <td> Rs. <?php echo $result->RPRICE;?></td>
             </tr>
             
             
@@ -128,7 +128,7 @@ require_once("../../includes/initialize.php");
             <table class="table">
               <tr>
                 <th style="width:50%">Total:</th>
-                <td > &euro; <?php echo @$tot ; ?></td>
+                <td > Rs. <?php echo @$tot ; ?></td>
               </tr>
        
             </table>
