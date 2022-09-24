@@ -8,7 +8,7 @@ require_once("../includes/initialize.php");
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
-<title><?php echo isset($title) ? $title . ' | Monbela Tourist Inn' :  'Monbela Tourist Inn' ; ?></title>
+<title><?php echo isset($title) ? $title . ' | Royal Hotel' :  'Royal Hotel' ; ?></title>
  
     
 <link rel="stylesheet" type="text/css" href="<?php echo WEB_ROOT; ?>style.css">  
@@ -48,7 +48,7 @@ require_once("../includes/initialize.php");
       <div class="row">
         <div class="col-xs-12">
           <h2 class="page-header">
-            <i class="fa fa-globe"></i> Monbela Tourist Inn
+            <i class="fa fa-globe"></i> Royal Hotel
             <small class="pull-right">Date: <?php echo date('m/d/Y'); ?></small>
           </h2>
         </div>
@@ -59,11 +59,10 @@ require_once("../includes/initialize.php");
         <div class="col-sm-4 invoice-col">
           From
           <address>
-            <strong>Monbela </strong><br>
-            795 Folsom Ave, Suite 600<br>
-            San Francisco, CA 94107<br>
-            Phone: (804) 123-5432<br>
-            Email: info@almasaeedstudio.com
+            <strong>Royal Hotel </strong><br>
+            123, Kandy Road, Colombo<br>
+            Phone: 011-8054428<br>
+            Email: procoder@official.com
           </address>
         </div>
         <!-- /.col -->
