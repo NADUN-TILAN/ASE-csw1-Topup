@@ -203,7 +203,7 @@
         <div class="col-lg-6">
           <div class="intro_image">
             <div class="background_image" style="background-image:url(images/intro.jpg)"></div>
-            <img src="images/bc.jpg" alt="">
+            <img src="images/111.jpg" alt="">
           </div>
         </div>
 
