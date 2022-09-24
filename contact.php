@@ -235,7 +235,7 @@ sendLetter.addEventListener("click", addClass);
   <div class="envelope front contact"></div>
   <div class="envelope back contact"></div>
 </div>
-<p class="result-message centered contact">Thank you for your message</p>
+<!--<p class="result-message centered contact">Thank you for your message</p>-->
 </center>
 
   <!-- Map -->
