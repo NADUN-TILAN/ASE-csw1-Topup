@@ -162,7 +162,7 @@ require_once("../includes/initialize.php");
             <table class="table">
               <tr>
                 <th style="width:50%">Total:</th>
-                <td> &#8369 <?php echo @$tot ; ?></td>
+                <td> &#8360 <?php echo @$tot ; ?></td>
               </tr>
          <!--      <tr>
                 <th>Tax (9.3%)</th>
