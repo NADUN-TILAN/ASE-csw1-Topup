@@ -156,7 +156,7 @@ $sql = "UPDATE `tblpayment` SET `MSGVIEW`=1 WHERE `CONFIRMATIONCODE` ='" . $_GET
             <table class="table">
               <tr>
                 <th style="width:50%">Total:</th>
-                <td>$<?php echo @$tot ; ?></td>
+                <td>Rs.<?php echo @$tot ; ?></td>
               </tr>
          <!--      <tr>
                 <th>Tax (9.3%)</th>
