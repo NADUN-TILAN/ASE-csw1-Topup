@@ -75,9 +75,9 @@ if(isset($_POST['submit'])){
 				<td><?php echo date_format(date_create($result->ARRIVAL),'m/d/Y'); ?></td>
 				<td><?php echo date_format(date_create($result->DEPARTURE),'m/d/Y'); ?></td>
 				<td><?php echo $result->ROOM . ' ' . $result->ROOMDESC;?></td>
-				<td> &#8369 <?php echo $result->PRICE; ?></td>
+				<td> &#8360 <?php echo $result->PRICE; ?></td>
 				<td><?php echo (dateDiff($result->ARRIVAL,$result->DEPARTURE)<=0) ? 1 : dateDiff($result->ARRIVAL,$result->DEPARTURE) ; ?></td>
-				<td> &#8369 <?php echo $result->RPRICE; ?></td>
+				<td> &#8360 <?php echo $result->RPRICE; ?></td>
 				<td><?php echo $result->STATUS; ?></td>
 				</tr>
 
